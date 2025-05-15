@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeyna\\source\\repos\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|c:\\users\\zeyna\\source\\repos\\solution1\\task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|solutionrelative:task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|c:\\users\\zeyna\\source\\repos\\solution1\\task11\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|solutionrelative:task11\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|c:\\users\\zeyna\\source\\repos\\solution1\\task11\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|solutionrelative:task11\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|c:\\users\\zeyna\\source\\repos\\solution1\\task11\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|solutionrelative:task11\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|c:\\users\\zeyna\\source\\repos\\solution1\\task11\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610498D3-D3DB-4530-8638-69D44BA815B9}|task11\\task11.csproj|solutionrelative:task11\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Circle.cs",
+              "RelativeDocumentMoniker": "task11\\Circle.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Circle.cs",
+              "RelativeToolTip": "task11\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:29:52.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Rectangle.cs",
+              "RelativeDocumentMoniker": "task11\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Rectangle.cs",
+              "RelativeToolTip": "task11\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:29:28.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Shape.cs",
+              "RelativeDocumentMoniker": "task11\\Shape.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Shape.cs",
+              "RelativeToolTip": "task11\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:29:02.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Student.cs",
+              "RelativeDocumentMoniker": "task11\\Student.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Student.cs",
+              "RelativeToolTip": "task11\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:50:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Program.cs",
+              "RelativeDocumentMoniker": "task11\\Program.cs",
+              "ToolTip": "C:\\Users\\zeyna\\source\\repos\\Solution1\\task11\\Program.cs",
+              "RelativeToolTip": "task11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:49:57.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
