@@ -12,3 +12,4 @@ C:\Users\zeyna\source\repos\Solution1\task11\obj\Debug\net8.0\refint\task11.dll
 C:\Users\zeyna\source\repos\Solution1\task11\obj\Debug\net8.0\task11.pdb
 C:\Users\zeyna\source\repos\Solution1\task11\obj\Debug\net8.0\task11.genruntimeconfig.cache
 C:\Users\zeyna\source\repos\Solution1\task11\obj\Debug\net8.0\ref\task11.dll
+C:\Users\zeyna\source\repos\Solution1\task11\obj\Debug\net8.0\task11.sourcelink.json
